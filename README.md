@@ -12,6 +12,7 @@ git clone https://github.com/vikassharma-3/alessia-thesubdomainfinder.git<br>
 cd alessia-thesubdomainfinder<br>
 chmod +x alessia.sh<br>
 chmod +x require.sh<br>
+./require.sh<br>
 Note: <br>
 1.First you need to run the require.sh for installing the requirements if missing.<br>
 2.You can put "Cobra.sh" in home/root directory for better experience.<br>

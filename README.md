@@ -8,10 +8,15 @@ This tool contains pre-built tools from the community and it has tools from GO a
 
 #Installation
 
-git clone https://github.com/ManasHarsh/Cobra.git
-cd Cobra
+git clone https://github.com/vikassharma-3/alessia-thesubdomainfinder.git
+cd alessia-thesubdomainfinder
 chmod +x alessia.sh
-Note: You can put "Cobra.sh" in home/root directory for better experience.
+chmod +x require.sh
+Note: 
+-First you need to run the require.sh for installing the requirements if missing.
+You can put "Cobra.sh" in home/root directory for better experience.
+-
+
 
 #Usage:
 

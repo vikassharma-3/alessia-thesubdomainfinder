@@ -10,12 +10,12 @@ This tool contains pre-built tools from the community and it has tools from GO a
 
 git clone https://github.com/ManasHarsh/Cobra.git
 cd Cobra
-chmod +x Cobra.sh
+chmod +x alessia.sh
 Note: You can put "Cobra.sh" in home/root directory for better experience.
 
 #Usage:
 
-./Cobra.sh
+./alessia.sh
 
 #Credits:
 

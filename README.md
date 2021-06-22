@@ -13,10 +13,8 @@ cd alessia-thesubdomainfinder<br>
 chmod +x alessia.sh<br>
 chmod +x require.sh<br>
 Note: <br>
-1.First you need to run the require.sh for installing the requirements if missing.
-2.You can put "Cobra.sh" in home/root directory for better experience.
-
-
+1.First you need to run the require.sh for installing the requirements if missing.<br>
+2.You can put "Cobra.sh" in home/root directory for better experience.<br>
 
 Usage:<br>
 ./alessia.sh <br>
